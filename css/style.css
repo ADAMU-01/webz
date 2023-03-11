@@ -32,9 +32,7 @@ p{
     padding: 10px;
    
 }
-.welcome{
-    padding: 2rem;
-}
+
 .welcome h1{
     font-size:3rem;
     font-weight: bold;
@@ -50,7 +48,7 @@ p{
 .edits{
     color: #022252;
     font-weight: bolder;
-    font-size: 70px;
+    font-size: 50px;
 }
 .welcome button{
     color: #fff;
