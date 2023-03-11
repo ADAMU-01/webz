@@ -34,9 +34,9 @@ p{
 }
 .welcome h1{
     font-size:3rem;
-    font-weight: bold;
+    font-weight: bolder;
     margin-bottom: 3rem;
-    width: 80%;
+    padding: 10px;
     
 
 
@@ -90,7 +90,7 @@ p{
     margin-bottom: 4rem;
     color: white;
     border-radius: 20px;
-    font-family:cursive;
+    
     
 }
 .third-holder hr{
