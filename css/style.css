@@ -30,12 +30,14 @@ p{
     margin-bottom: 4rem;
     line-height: 2;
     padding: 10px;
+   
 }
 .welcome h1{
     font-size:3rem;
-    font-weight: bolder;
+    font-weight: bold;
     margin-bottom: 3rem;
     width: auto;
+    
 
 
 }
@@ -185,12 +187,13 @@ hr{
 input{
     border-radius: 20px;
     border: none;
-    width: 50%;
+    width: 70%;
     height: 3rem;
     margin-bottom: 2rem;
 }
 textarea{
     border-radius: 10px;
+    width: 80%;
 }
 .form-holder button{
     width: 50%;
